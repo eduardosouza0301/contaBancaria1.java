@@ -1,2 +1,2 @@
-# contaBancaria1.java
+# ContaBancaria1.java
 Exercício Curso Java, do básico ao avançado.
